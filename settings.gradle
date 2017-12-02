@@ -1,0 +1,5 @@
+rootProject.name = 'members'
+include 'members-domains'
+include 'members-front-api'
+include 'members-front-web'
+
