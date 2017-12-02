@@ -1,4 +1,4 @@
-package com.coupang.sharing.member.domain;
+package com.minna.sharingeconomy.member.domain;
 
 import lombok.Builder;
 import lombok.Getter;
